@@ -1,0 +1,12 @@
+println("hello")
+int x = 0
+
+x = x + 1
+
+string x = "hello!"
+
+defunc hellotext()
+
+  print("Hello world!")
+
+}
